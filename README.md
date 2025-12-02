@@ -1,5 +1,6 @@
-Day 1
-What I learned today:
+# Day 1
+
+## What I learned today:
 
 - Kafka basics: producer, consumer, broker, topic, partitions.
 - Docker basics and how to run Kafka using docker-compose.
@@ -7,8 +8,9 @@ What I learned today:
 - Successfully started Kafka locally.
 - Created first Kafka topic: observability.logs.
 
-Day 2
-What I learned today:
+# Day 2
+
+## What I learned today:
 
 - Kafka producer basics
 - How messages flow from Node → Kafka
