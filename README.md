@@ -17,3 +17,13 @@
 - How to generate synthetic microservice logs
 - How to connect Node.js to Kafka using KafkaJS
 - Successfully produced logs and validated them via kafka-console-consumer
+
+# Day 3
+
+## What I learned today:
+
+- How Kafka consumers work
+- How to use aiokafka in Python
+- How to clean/validate logs
+- How Parquet storage works
+- Built consumer that writes Bronze layer data

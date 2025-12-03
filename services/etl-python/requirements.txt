@@ -1,0 +1,5 @@
+aiokafka
+pandas
+pyarrow
+fastparquet
+pandas
