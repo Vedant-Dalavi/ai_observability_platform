@@ -32,8 +32,6 @@
 
 ## What I learned Today:
 
-What I learned today:
-
 - What embeddings are and how they represent semantic meaning
 - How sentence-transformers generates vectors for logs
 - How to build a FastAPI embedding service
