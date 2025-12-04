@@ -27,3 +27,15 @@
 - How to clean/validate logs
 - How Parquet storage works
 - Built consumer that writes Bronze layer data
+
+# Day 4
+
+## What I learned Today:
+
+What I learned today:
+
+- What embeddings are and how they represent semantic meaning
+- How sentence-transformers generates vectors for logs
+- How to build a FastAPI embedding service
+- How to test embeddings locally
+- Prepared for vector database integration tomorrow

@@ -3,3 +3,6 @@ pandas
 pyarrow
 fastparquet
 pandas
+fastapi
+uvicorn
+sentence-transformers
