@@ -37,3 +37,15 @@
 - How to build a FastAPI embedding service
 - How to test embeddings locally
 - Prepared for vector database integration tomorrow
+
+# Day 5
+
+## What I learned today:
+
+- What vector databases are and why they are used
+- Qdrant collections, points, payloads, search
+- How to embed logs and store them in Qdrant
+- How to perform semantic search on logs
+
+Outcome:
+Completed semantic search engine. System can find similar logs based on meaning.
