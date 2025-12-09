@@ -49,3 +49,16 @@
 
 Outcome:
 Completed semantic search engine. System can find similar logs based on meaning.
+
+# Day 6
+
+## What I learned today:
+
+- How RAG works (retrieve → augment → generate)
+- How to build retrieval using Qdrant
+- How to build prompts for logs
+- How to call an LLM (OpenAI or Ollama)
+- Built the /rag/query API that gives complete incident analysis
+
+Outcome:
+My system now supports full AI reasoning over log data.
