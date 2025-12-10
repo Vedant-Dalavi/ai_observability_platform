@@ -11,10 +11,11 @@ def ask_llm(prompt: str) -> str:
             json={
                 "model": MODEL,
                 "prompt": prompt,
-                "stream": False,
+                "stream": False
             }
         )
-
+        
+        print("res:", res)
         res.raise_for_status()
         data = res.json()  
         return data["response"]

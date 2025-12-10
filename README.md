@@ -62,3 +62,16 @@ Completed semantic search engine. System can find similar logs based on meaning.
 
 Outcome:
 My system now supports full AI reasoning over log data.
+
+# Day 7
+
+### What I learned today:
+
+- How to build an Express API using ESM (import/export)
+- How to design routes for observability (services, logs, rag)
+- How to proxy Node.js API calls to Python microservices
+- How to expose a simple SSE endpoint for live events
+
+Outcome:
+I now have a unified API gateway for my AI Observability Platform.
+Frontend or tools can call a single Node.js service.
